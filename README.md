@@ -44,3 +44,4 @@ To do this, count the number of times a depth measurement increases from the pre
 In this example, there are 7 measurements that are larger than the previous measurement.
 
 Many thanks from "https://adventofcode.com/"
+https://adventofcode.com/2021/day/1
